@@ -1,6 +1,6 @@
 {
-  "id": "draci-hlidka",
-  "title": "Dračí Hlídka (Official)",
+  "id": "draci-hlidka-testing",
+  "title": "Dračí Hlídka (Unfficial testing)",
   "description": "Czech language only. Kompendium modul pro hru Dračí Hlídka. Pro spuštění je třeba systém Sandbox System Builder.",
   "authors": [
     {
@@ -19,11 +19,11 @@
       "flags": {}
     }
   ],
-  "version": "0.9.3",
+  "version": "0.9.4",
   "compatibility": {
     "minimum": "10",
     "verified": "11.315",
-    "maximum": "11"
+    "maximum": "12"
   },
   "relationships": {
     "systems": [
@@ -86,6 +86,6 @@
     }
   ],
   "url": "https://www.dracihlidka.cz",
-  "manifest": "https://raw.githubusercontent.com/DraciHlidka/draci-hlidka-foundryvtt/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Tobias021/draci-hlidka-foundryvtt-12/refs/heads/main/module.json",
   "download": "https://github.com/DraciHlidka/draci-hlidka-foundryvtt/releases/download/v0.9.3/draci-hlidka-v0.9.3.zip"
 }
